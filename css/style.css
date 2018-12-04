@@ -132,8 +132,7 @@ img.car {
     width: 150px;
     height: 150px;
 
-    float: right;
-    margin-right: 150px;
+    padding-left: 15px;
     
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
@@ -146,8 +145,7 @@ img.gas {
     width: 150px;
     height: 150px;
 
-    float: right;
-    margin-right: 150px;
+    padding-left: 15px;
 }
 
 /* Color scheme: http://colorschemedesigner.com/csd-3.5/#0s21T80sO6q6q */
