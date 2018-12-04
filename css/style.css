@@ -124,6 +124,10 @@ h2 {
     list-style-type: circle;
 }
 
+ul.blerb {
+    list-style-type: circle;
+}
+
 img.ba {
     width: 50%;
     height: 50%;
